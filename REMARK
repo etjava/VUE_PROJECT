@@ -1,0 +1,7 @@
+version : 2.0
+
+server端访问地址配置在src/config/sys.js中
+
+运行 npm run dev
+
+打包 npm run build
